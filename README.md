@@ -1,2 +1,2 @@
-# Lavanya.github.io
+# Aarthisekar25.github.io
 mywebsite
